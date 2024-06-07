@@ -78,12 +78,15 @@ Some of the key findings from the analysis include:
 ![image](https://github.com/MithilKothari/Python--Diwali-Sales-Analysis/assets/156261969/81313a34-4bcf-44a2-85c9-a468ca329a8f)
 
 * Customers in the age group of 25-35 were the highest spenders.
+  
 ![image](https://github.com/MithilKothari/Python--Diwali-Sales-Analysis/assets/156261969/f7f924c9-d623-4cd1-8db9-da0d61bcdbe9)
 
 * Most of the buyers are working in the IT, Healthcare, and Aviation sector
+  
 ![image](https://github.com/MithilKothari/Python--Diwali-Sales-Analysis/assets/156261969/87ff6e63-9eb9-4508-baef-9f5425f8d130)
 
 * Most of the sold products are from the Food, Clothing and Electronics category.
+  
 ![image](https://github.com/MithilKothari/Python--Diwali-Sales-Analysis/assets/156261969/46aa060f-0cbe-49c5-b87b-36229fb738de)
 
 ### **Insights**
